@@ -5,4 +5,4 @@ Variables for arrays of structs of the positions of atoms or particles. These ar
 quantity required to perform [Enhanced Sampling] molecular dynamics simulations.
 
 [Reaction Coordinates]: https://en.wikipedia.org/wiki/Reaction_coordinate
-[Enhanced Sampling]: ttps://aip.scitation.org/doi/pdf/10.1063/1.5109531
+[Enhanced Sampling]: https://aip.scitation.org/doi/pdf/10.1063/1.5109531
